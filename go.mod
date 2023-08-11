@@ -1,4 +1,4 @@
-module introgo
+module github.com/joaoarthurbm/introgo
 
 go 1.20
 
